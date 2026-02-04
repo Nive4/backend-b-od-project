@@ -18,7 +18,7 @@ CORS: "I have added @CrossOrigin(origins = "*") in my controller, so you shouldn
 
 
 
-For the Backend A Developer
+2.For the Backend A Developer
 Since you are handling the Logic (B) and they are likely handling the Auth/Login (A), you need to sync your data models.
 
 Tell them this:
